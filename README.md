@@ -13,7 +13,7 @@ A simple web application to fetch and display country information using the REST
 - CSS
 - JavaScript (Fetch API)
 
-## Preview
+## Sample Output
 
 ![image](https://github.com/user-attachments/assets/8e1bc125-be97-4d8c-9bf7-e258ec670b7c)
 
